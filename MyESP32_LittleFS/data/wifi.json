@@ -1,0 +1,33 @@
+{
+    "server_en": true,
+    "server_hostname": "ATADev",
+
+    "station_en": true,
+    "sta_ssid": "DPWifi",
+    "sta_pwd": "dave3.14159",
+
+    "apmode_en": true,
+    "ap_ssid": "ATA_AP",
+    "ap_pwd": "12345678",
+
+    "ota_update": true,
+    "update_user": "admin",
+    "update_pwd": "12345678",
+
+    "station0":{
+        "ssid": "DPWifi",
+        "pwd": "dave3.14159"
+    },
+    "station1":{
+        "ssid": "ATA24",
+        "pwd": "limitless77"
+    },
+    "station2":{
+        "ssid": "",
+        "pwd": ""
+    },
+    "station3":{
+        "ssid":"",
+        "pwd":""
+    }
+}

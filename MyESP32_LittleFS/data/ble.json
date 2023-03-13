@@ -1,0 +1,12 @@
+{
+    "server": {
+        "en": true,
+        "devname": "ATA_BLE_COMM",
+        "key": "12345",
+        "service_uuid": "FFE1",
+        "char_uuid": "FFE0"
+    },
+    "client":{
+        "en": false
+    }
+}

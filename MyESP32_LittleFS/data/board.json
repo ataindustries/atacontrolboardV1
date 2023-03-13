@@ -1,0 +1,56 @@
+{
+    "buttons":{
+        "period":25
+    },
+    "relay1":{
+        "freq": 500,
+        "max": 100,
+        "min": 0,
+        "default": 0
+    },
+    "relay2":{
+        "freq": 500,
+        "max": 100,
+        "min": 0,
+        "default": 0
+    },
+    "relay3":{
+        "freq": 500,
+        "max": 100,
+        "min": 0,
+        "default": 0
+    },
+    "relay4":{
+        "freq": 500,
+        "max": 100,
+        "min": 0,
+        "default": 0
+    },
+    "serial1":{
+        "en": false,
+        "baud": 115200
+    },
+    "oled":{
+        "en": false,
+        "addr": 60
+    },
+    "i2c":{
+        "en": true,
+        "baud": 400
+    },
+    "tmp102":{
+        "en": true,
+        "addr": 72,
+        "period": 500,
+        "trigTC": 31,
+        "hyst": 2,
+        "fanRelay": 4
+    },
+    "adc":{
+        "ain1_factor": 1.0,
+        "ain2_factor": 1.0,
+        "ain3_factor": 1.0
+    }
+
+
+}

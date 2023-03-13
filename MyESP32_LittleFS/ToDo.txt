@@ -1,0 +1,21 @@
+1. SPIFFS
+    Config Files:
+        a. board.json
+            1. system mode: Roamer, Helio Kiosk, Regular booth, Ext Light, 
+            1. relay defaults
+            2. buzzer tunes
+            3. Oled
+            4. Buttons
+            5. adc scalers
+            6. fan temperatue trigger
+        b. ledcontrol.json
+        c. bluetooth.json
+            1. SPP mode
+        d. serial_port.json
+            1. As DSLRBooth comm
+            2. As terminal
+        e. wifi.json
+            1. index_page.html
+            2. others...
+
+

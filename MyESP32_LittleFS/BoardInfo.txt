@@ -1,0 +1,10 @@
+Status Pins:    2, 18
+Relays 1-4:     4, 16, 17, 5
+Buttons 1-3:    33, 32, 35(no touch)
+Buzzer:         25
+RGBLED1:        27
+RGBLED2:        26
+433RX:          23
+433TX:          19
+T_Sensor:       36 
+12V_Sensor:     39

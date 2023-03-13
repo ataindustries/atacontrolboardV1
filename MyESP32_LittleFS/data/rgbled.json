@@ -1,0 +1,42 @@
+{
+    "led1": {
+        "en:": true,
+        "count": 10,
+        "chip": "SK6812",
+        "col_order": "RGB",
+        "offset": 0,
+        "off_pixels": 0,
+        "bright": 200,
+        "i2spin": 26
+    },
+    "led2": {
+        "en:": true,
+        "count": 10,
+        "chip": "SK6811",
+        "col_order": "RGB",
+        "offset": 0,
+        "off_pixels": 0,
+        "bright": 200,
+        "i2spin": 27
+    },
+    "fire": {
+        "en": true,
+        "offset": 100,
+        "cool": 100,
+        "spark": 10
+    },
+    "meteor": {
+        "size": 10
+    },
+    "nest": [
+        {
+            "data": "1"
+        },
+        {
+            "data": "1"
+        },
+        {
+            "data": "1"
+        }
+    ]
+}
